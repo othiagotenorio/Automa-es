@@ -1,6 +1,5 @@
-====================================================
+
   INSTRUÇÕES DE USO - CONVERSOR DE IMAGENS PARA WEBP
-====================================================
 
 ESTRUTURA DAS PASTAS:
 - imagens_originais/  <-- Cole AQUI todas as imagens (.jpg, .png, etc.)
